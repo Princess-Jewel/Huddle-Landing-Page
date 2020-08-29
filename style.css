@@ -1,0 +1,264 @@
+::-webkit-scrollbar{
+    display: none;
+}
+.img-fluid{
+    position: absolute;
+    object-fit: contain;
+        Height: auto;
+        width:75%;
+     
+}
+.help{
+    padding-top:5%;
+   
+}
+
+.text{
+    margin-top:auto;
+    margin-bottom:auto;
+}
+/*
+   .img-fluid-height {
+    max-height: 100%;
+    object-fit: contain;
+  }
+  .help1{
+      position: relative;
+  }*/
+
+
+  body{
+    background-color: white;
+}
+
+.section2{
+        flex-direction: row;
+        display: flex; 
+        background-color:white;
+        border-radius:20px;
+        border: 1px solid ,hsl(208, 11%, 55%);
+        box-shadow: 1px 1px 6px hsl(208, 11%, 55%);
+        margin-right: 5%;
+        margin-left: 5%;
+        margin-top:2%;
+        margin-bottom: 2%;
+}
+.section3{
+    flex-direction: row;
+    display: flex; 
+    background-color: white;
+    border-radius:20px;
+    border: 1px solid ,hsl(208, 11%, 55%);
+    box-shadow: 1px 1px 6px hsl(208, 11%, 55%);
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top:2%;
+    margin-bottom: 2%;
+}
+
+
+h3{
+    font-size:30px;
+    font-weight:1000px;
+    
+}
+h2,h3,h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+#grow{
+    float: right;
+    width:75%;
+    object-fit: contain;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#flow{
+    float: left;
+    width:30%;
+    margin-left:10% ;
+   /* overflow: auto; */
+    object-fit: contain;
+}
+
+#flowing1{
+    margin: 5% 5% 5% 5%;
+}
+
+#flowing{
+    float:right;
+    margin-top:5%;
+}
+
+
+p{ 
+    font-size:18px;
+    font-family: 'Poppins', sans-serif;
+  
+}
+.text1{
+    margin-top:5%;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+#yours{
+    float: right;
+    width:55%;
+   /* overflow: auto; */
+    object-fit: contain;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#your{
+    margin-right:5% ;
+    margin-bottom:5% ;
+    margin-left:10% ;
+    margin-top:5% ;
+}
+.start{
+    margin-left:3%;
+    margin-top:5%;
+    margin-right: 45%;
+    padding-top:1%;
+    padding-bottom:1%;
+    font-size: 20px;
+    background-color: hsl(322, 100%, 66%);
+    width: 8%;
+    border-radius: 25px;
+    text-align: center;
+    color:white;
+    font-family: 'Poppins', sans-serif;
+}
+
+#ready p,h4{
+    text-align: center;
+    
+}
+
+#ready h4{
+    padding-top:25px;
+    font-size:27px;
+    font-weight:500px;
+    
+}
+#ready p{
+    margin-top:5%;
+    margin-right: 45%;
+    margin-left: 25%;
+    font-size: 20px;
+    background-color: hsl(322, 100%, 66%);
+    width: 50%;
+    border-radius: 25px;
+    text-align: center;
+    color:white;
+    padding-top:2%;
+    padding-bottom:2%;
+}
+
+#ready{
+    background-color: white;
+    width:60%;
+    margin: auto;
+    
+    
+}
+
+.section4{
+    flex-direction: row;
+    display: flex; 
+    border: 1px solid ,hsl(208, 11%, 55%);
+    box-shadow: 1px 1px 6px hsl(208, 11%, 55%);
+    border-radius:20px;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-top:2%;
+    margin-bottom: 2%;
+    width:50%;
+}
+.try{
+   
+    font-size: 20px;
+    background-color: white;
+    border-radius: 25px;
+    text-align: center;
+    margin-top:10%;
+    
+}
+.help{ 
+    padding-left:2%;
+   
+}
+
+.container{
+    margin-right:5% ;
+    margin-bottom:5% ;
+    margin-left:10% ;
+    margin-top:15% ;
+}
+
+.copy a { color: hsl(322, 100%, 66%); }
+
+.section5{
+    flex-direction: row;
+    display: flex; 
+    background-color: hsl(192, 100%, 9%);
+}
+
+
+.align li{
+    float:left;
+    margin-left: 5%;
+    margin-right:5%;
+    border:1px solid white;
+    border-radius: 50%;
+    padding-top:3px;
+    padding-bottom: 3px;
+    padding-right: 7px;
+    padding-left: 7px;
+    margin-top: 45%
+     
+}
+.footer4{
+    margin-left:5%;
+    text-align: left;
+}
+.footer3{
+    margin-left:5%;
+    padding-top:5%;
+}
+.footer2{
+    margin-left:5%;
+    padding-top:5%;
+}
+.footer1 li{
+    text-align:left;
+    margin-right:10%;
+    margin-top:5%;
+}
+.footer1 h4{
+    margin-right:80%;
+    margin-left:0;
+    font-size:40px;
+    margin-bottom:0;
+    margin-top:0;
+}
+.align{
+    margin-left:50%;
+}
+.copy{
+    margin-top:40%;
+    padding-top:30%;
+    margin-left:15%;
+    margin-right:0;
+}
+.footer3 .footer1 .footer2 li{
+    font-size:18px;
+}
+.footer4 li{
+    font-size:13px;
+}
